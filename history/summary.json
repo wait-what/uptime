@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 467,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 487,
+    "timeDay": 657,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miruku.cafe.ico",
     "slug": "miruku-cafe",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 702,
-    "timeDay": 470,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
-    "dailyMinutesDown": {
-      "2023-10-07": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 727,
+    "timeDay": 609,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Autumn",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 32,
-    "timeWeek": 413,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "time": 421,
+    "timeDay": 457,
+    "timeWeek": 421,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   }
 ]
