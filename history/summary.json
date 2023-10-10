@@ -22,19 +22,19 @@
     "url": "https://miruku.cafe/?",
     "icon": "https://icons.duckduckgo.com/ip3/miruku.cafe.ico",
     "slug": "miruku-cafe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1787,
-    "timeDay": 631,
-    "timeWeek": 1787,
-    "timeMonth": 1787,
-    "timeYear": 1787,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1702,
+    "timeDay": 677,
+    "timeWeek": 1702,
+    "timeMonth": 1702,
+    "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 17
     }
   },
   {
