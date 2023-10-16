@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 525,
-    "timeWeek": 592,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "time": 546,
+    "timeDay": 521,
+    "timeWeek": 538,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/miruku.cafe.ico",
     "slug": "miruku-cafe",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 2846,
-    "timeDay": 3414,
-    "timeWeek": 3694,
-    "timeMonth": 2846,
-    "timeYear": 2846,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2754,
+    "timeDay": 813,
+    "timeWeek": 3245,
+    "timeMonth": 2754,
+    "timeYear": 2754,
     "dailyMinutesDown": {
       "2023-10-10": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 33,
-    "timeWeek": 472,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "time": 423,
+    "timeDay": 87,
+    "timeWeek": 342,
+    "timeMonth": 423,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
