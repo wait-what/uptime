@@ -1,7 +1,7 @@
 url: https://autumn.revolt.chat/?
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2023-11-09T05:28:33.828Z
+status: down
+code: 502
+responseTime: 563
+lastUpdated: 2023-11-09T10:41:12.768Z
 startTime: 2023-10-04T18:42:39.779Z
 generator: Upptime <https://github.com/upptime/upptime>
