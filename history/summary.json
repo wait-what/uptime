@@ -44,19 +44,19 @@
     "url": "https://autumn.revolt.chat/?",
     "icon": "https://icons.duckduckgo.com/ip3/autumn.revolt.chat.ico",
     "slug": "autumn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 634,
-    "timeWeek": 395,
-    "timeMonth": 382,
-    "timeYear": 403,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 402,
+    "timeDay": 541,
+    "timeWeek": 390,
+    "timeMonth": 381,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-11-09": 0
+      "2023-11-09": 7
     }
   }
 ]
