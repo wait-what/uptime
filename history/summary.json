@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 580,
-    "timeWeek": 557,
-    "timeMonth": 545,
-    "timeYear": 547,
+    "time": 546,
+    "timeDay": 513,
+    "timeWeek": 576,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.84%",
-    "time": 2653,
-    "timeDay": 715,
-    "timeWeek": 692,
-    "timeMonth": 2755,
-    "timeYear": 2653,
+    "time": 2626,
+    "timeDay": 781,
+    "timeWeek": 700,
+    "timeMonth": 2800,
+    "timeYear": 2626,
     "dailyMinutesDown": {
       "2023-10-23": 24,
       "2023-10-18": 42,
@@ -45,18 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/autumn.revolt.chat.ico",
     "slug": "autumn",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 405,
-    "timeDay": 507,
-    "timeWeek": 402,
-    "timeMonth": 385,
-    "timeYear": 405,
-    "dailyMinutesDown": {
-      "2023-11-09": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 398,
+    "timeDay": 386,
+    "timeWeek": 378,
+    "timeMonth": 374,
+    "timeYear": 398,
+    "dailyMinutesDown": {}
   }
 ]
