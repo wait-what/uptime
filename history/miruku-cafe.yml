@@ -1,7 +1,7 @@
 url: https://miruku.cafe/?
-status: up
-code: 200
-responseTime: 587
-lastUpdated: 2023-12-14T23:11:09.289Z
+status: down
+code: 502
+responseTime: 26532
+lastUpdated: 2023-12-15T08:36:31.644Z
 startTime: 2023-10-04T18:42:38.140Z
 generator: Upptime <https://github.com/upptime/upptime>
