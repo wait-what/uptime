@@ -4,19 +4,19 @@
     "url": "https://files.waitwhat.sh/?",
     "icon": "https://icons.duckduckgo.com/ip3/files.waitwhat.sh.ico",
     "slug": "ruby",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 533,
-    "timeWeek": 554,
-    "timeMonth": 533,
-    "timeYear": 536,
+    "time": 538,
+    "timeDay": 612,
+    "timeWeek": 571,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-02-05": 1
+      "2024-02-05": 4
     }
   },
   {
