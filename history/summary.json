@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/miruku.cafe.ico",
     "slug": "miruku-cafe",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.83%",
     "time": 2114,
     "timeDay": 745,
     "timeWeek": 2404,
     "timeMonth": 1968,
     "timeYear": 2114,
     "dailyMinutesDown": {
-      "2024-03-11": 49,
+      "2024-03-11": 56,
       "2024-03-09": 17,
       "2024-03-05": 56,
       "2024-01-28": 20,
@@ -52,11 +52,11 @@
     "url": "https://autumn.revolt.chat/?",
     "icon": "https://icons.duckduckgo.com/ip3/autumn.revolt.chat.ico",
     "slug": "autumn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
     "timeDay": 276,
@@ -64,7 +64,7 @@
     "timeMonth": 873,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2024-03-11": 4
+      "2024-03-11": 0
     }
   }
 ]
