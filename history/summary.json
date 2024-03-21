@@ -4,10 +4,10 @@
     "url": "https://files.waitwhat.sh/?",
     "icon": "https://icons.duckduckgo.com/ip3/files.waitwhat.sh.ico",
     "slug": "ruby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
@@ -15,16 +15,18 @@
     "timeWeek": 4029,
     "timeMonth": 1367,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 2
+    }
   },
   {
     "name": "Miruku.cafe",
     "url": "https://miruku.cafe/?",
     "icon": "https://icons.duckduckgo.com/ip3/miruku.cafe.ico",
     "slug": "miruku-cafe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "39.64%",
+    "uptimeDay": "71.66%",
     "uptimeWeek": "87.83%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "99.27%",
@@ -34,6 +36,7 @@
     "timeMonth": 1723,
     "timeYear": 1994,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-03-20": 906,
       "2024-03-19": 273,
       "2024-03-17": 48,
